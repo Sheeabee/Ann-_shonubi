@@ -15,8 +15,6 @@
 ## 🚀 About Me 
 I'm a data analyst with proficiency in Python, SQL, Tablaeu and Power BI with knowledge to bridge the gap between technical teams and business users.
 
-My focus is building and optimizing analytical assets.
-
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://github.com/Sheeabee/Ann-_shonubi)
       
